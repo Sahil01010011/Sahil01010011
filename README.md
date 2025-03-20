@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`shadowxp`]**, I’m shadowxp, an ethical hacker with experience in web security, bug hunting, and penetration testing. Driven by a passion for tech and security, I specialize in uncovering vulnerabilities and strengthening defenses. My goal is to secure systems, find bugs, and aspire to become a top-tier bug bounty hunter, making the digital world a safer place one exploit at a time.
+I'm **[`shadowxp`]**, an ethical hacker with experience in web security, bug hunting, and penetration testing. Driven by a passion for tech and security, I specialize in uncovering vulnerabilities and strengthening defenses. My goal is to secure systems, find bugs, and aspire to become a top-tier bug bounty hunter, making the digital world a safer place one exploit at a time.
 
 
 <details>
