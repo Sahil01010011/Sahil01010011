@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=I+am+shadowxp" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=I+am+sahil mallick" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,13 +14,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`shadowxp`]**, an ethical hacker with experience in web security, bug hunting, and penetration testing. Driven by a passion for tech and security, I specialize in uncovering vulnerabilities and strengthening defenses. My goal is to secure systems, find bugs, and aspire to become a top-tier bug bounty hunter, making the digital world a safer place one exploit at a time.
+I'm **[`Sahil Mallick`]**, a cyber security enthusiast with experience in web security, bug hunting, and penetration testing. Driven by a passion for tech and security, I specialize in uncovering vulnerabilities and strengthening defenses. My goal is to secure systems, find bugs, and aspire to become a top-tier bug bounty hunter, making the digital world a safer place one exploit at a time.
 
 
 <details>
   <summary>More about me</summary>
 
-- **Name**: shadow
+- **Name**: sahil mallick
 - **From**: India
 - **Ethical Hacker** | **Bug hunter** 
 - i have experience in Ethical Hacking, Web Security, Bug hunting.
