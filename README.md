@@ -25,7 +25,7 @@ I'm **[`Sahil Mallick`]**, a cyber security enthusiast with experience in web se
 - **Ethical Hacker** | **Bug hunter** 
 - i have experience in Ethical Hacking, Web Security, Bug hunting.
 - Improving knowledge in **Website Vulnerabilities**
-- I’m currently learning **Block Chain** 
+- I’m currently learning **Web Security** 
 - Reach me out at **shadowxp010@gmail.com**
 
 </details>
